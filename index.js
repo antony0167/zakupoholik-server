@@ -44,6 +44,7 @@ app.post("/api/insertLog", (req, res) => {
                 match = match;
         }
         logged = match;
+        'XD'
     })
 });
 
